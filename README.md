@@ -1,12 +1,14 @@
 
 [<h1 align="center">Hi 👋, I'm Francisco Bueno</h1>]: #
 
-<h3 align="left">SRE/DevOps Engineer | I'm a passionate SRE/DevOps Engineer with experience in Cloud Services, DevOps Practice and tools, as well as SRE discipline.<br> I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h3>
+<h3 align="left">SRE/DevOps Engineer</h3>
+<h4 align="left"> I'm a passionate SRE/DevOps Engineer with experience in Cloud Services, DevOps Practice and tools, as well as SRE discipline.<br>
+  I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.</h4>
 <br>
 
 [- 🌱 I’m currently learning **Certified Kubernetes Administrator**]: #
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/franciscobueno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscobueno" height="30" width="40" /></a>
 <br>
